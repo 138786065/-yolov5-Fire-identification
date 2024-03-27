@@ -1,0 +1,11 @@
+H:/yolov5-master/VOCData/images/107.jpg
+H:/yolov5-master/VOCData/images/2.jpg
+H:/yolov5-master/VOCData/images/3.jpg
+H:/yolov5-master/VOCData/images/48.jpg
+H:/yolov5-master/VOCData/images/49.jpg
+H:/yolov5-master/VOCData/images/52.jpg
+H:/yolov5-master/VOCData/images/53.jpg
+H:/yolov5-master/VOCData/images/58.jpg
+H:/yolov5-master/VOCData/images/60.jpg
+H:/yolov5-master/VOCData/images/90.jpg
+H:/yolov5-master/VOCData/images/91.jpg
